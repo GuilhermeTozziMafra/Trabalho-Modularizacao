@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------
 ## Matéria: Programação para computadores
 
-### Aluno: José Luiz Dantas Júnior
+### Aluno: Guilherme Tozzi Mafra
 O trabalho consiste em responder questões que envolvam modularizacao, em códigos na linguagem C.
 
 ## Questões
